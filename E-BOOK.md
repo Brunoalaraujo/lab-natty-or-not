@@ -14,5 +14,5 @@ Utilizei o "ChatGPT" para revisar e estruturar o conto inspirado no estilo de H.
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Brunoalaraujo/lab-natty-or-not/blob/main/Sob%20as%20Sombras%20de%20Arton%20O%20Abismo%20de%20Valkaria.pdf)
 
